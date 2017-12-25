@@ -1,6 +1,6 @@
 {
-  "name": "messageflow",
-  "version": "0.0.0",
+  "name": "@messageflow/messageflow",
+  "version": "0.0.1",
   "description": "Messageflow",
   "keywords": [
     "messageflow",
